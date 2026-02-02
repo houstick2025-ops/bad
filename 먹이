@@ -47,12 +47,12 @@
    ========================= */
 const PRODUCTS = [
   {
-    title: "냉동마우스 갓핑키 1g ,
+    title: "냉동마우스 갓핑키 1g" ,
     category: "마우스",
     link: "https://smartstore.naver.com/bamsikdang/products/4856309123"
   },
 {
-    title: "냉동마우스 핑키 2-4g ,
+    title: "냉동마우스 핑키 2-4g" ,
     category: "마우스",
     link: "https://smartstore.naver.com/bamsikdang/products/4856321526"
   }
@@ -62,32 +62,32 @@ const PRODUCTS = [
     link: "https://smartstore.naver.com/bamsikdang/products/4856329041"
   },
 {
-    title: "냉동마우스 하퍼 8-11g ,
+    title: "냉동마우스 하퍼 8-11g" ,
     category: "마우스",
     link: "https://smartstore.naver.com/bamsikdang/products/4856309123"
   },
 {
-    title: "냉동마우스 소 12-16g ,
+    title: "냉동마우스 소 12-16g" ,
     category: "마우스",
     link: "https://smartstore.naver.com/bamsikdang/products/4856336097"
   },
 {
-    title: "냉동마우스 중 17-21g ,
+    title: "냉동마우스 중 17-21g" ,
     category: "마우스",
     link: "https://smartstore.naver.com/bamsikdang/products/4856339891"
   },
 {
-    title: "냉동마우스 대 22-27g ,
+    title: "냉동마우스 대 22-27g" ,
     category: "마우스",
     link: "https://smartstore.naver.com/bamsikdang/products/4856342336"
   },
 {
-    title: "냉동마우스 특대 28-39g ,
+    title: "냉동마우스 특대 28-39g" ,
     category: "마우스",
     link: "https://smartstore.naver.com/bamsikdang/products/4856309123"
   },
 {
-    title: "냉동마우스 왕특대 40-55g ,
+    title: "냉동마우스 왕특대 40-55g" ,
     category: "마우스",
     link: "https://smartstore.naver.com/bamsikdang/products/4856309123"
   },
