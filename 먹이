@@ -64,7 +64,7 @@ const PRODUCTS = [
 {
     title: "냉동마우스 하퍼 8-11g",
     category: "마우스",
-    link: "https://smartstore.naver.com/bamsikdang/products/4856309123"
+    link: "https://smartstore.naver.com/bamsikdang/products/4856334048"
   },
 {
     title: "냉동마우스 소 12-16g",
@@ -84,12 +84,12 @@ const PRODUCTS = [
 {
     title: "냉동마우스 특대 28-39g",
     category: "마우스",
-    link: "https://smartstore.naver.com/bamsikdang/products/4856309123"
+    link: "https://smartstore.naver.com/bamsikdang/products/4856345818"
   },
 {
     title: "냉동마우스 왕특대 40-55g",
     category: "마우스",
-    link: "https://smartstore.naver.com/bamsikdang/products/4856309123"
+    link: "https://smartstore.naver.com/bamsikdang/products/8619203361"
   },
 {
     title: "냉동래-트 갓핑키 6-9g",
