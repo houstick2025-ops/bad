@@ -55,7 +55,7 @@ const PRODUCTS = [
     title: "냉동마우스 핑키 2-4g",
     category: "마우스",
     link: "https://smartstore.naver.com/bamsikdang/products/4856321526"
-  }
+  },
 {
     title: "냉동마우스 퍼지 5-7g",
     category: "마우스",
@@ -106,7 +106,7 @@ const PRODUCTS = [
     category: "래-트",
     link: "https://smartstore.naver.com/bamsikdang/products/5419936079"
   },
-  {
+{
     title: "냉동래-트 하퍼 35-50g",
     category: "래-트",
     link: "https://smartstore.naver.com/bamsikdang/products/5419940119"
