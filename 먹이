@@ -147,10 +147,20 @@ const PRODUCTS = [
     link: "https://smartstore.naver.com/bamsikdang/products/5419950048"
   },
   {
-    title: "사이드메뉴 10-15g",
+    title: "메추리 5-7g",
     category: "사이드메뉴",
-    link: "https://smartstore.naver.com/bamsikdang"
-  }
+    link: "https://smartstore.naver.com/bamsikdang/products/9117510220"
+  },
+{
+    title: "병아리 28-39g",
+    category: "사이드메뉴",
+    link: "https://smartstore.naver.com/bamsikdang/products/6208432329"
+  },
+{
+    title: "북방산 개구리 12-21g",
+    category: "사이드메뉴",
+    link: "https://smartstore.naver.com/bamsikdang/products/6198517437"
+  },
 ];
 
 /* =========================
